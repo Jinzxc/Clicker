@@ -4,11 +4,11 @@ A prototype of automation code built on Python. <br /><br />
 
 | Version | Changes                         |
 | ------- | -----------------------------   |
-|   1.0   | autoclicker                     |
-|   1.1   | clicker reader                  |
-|   1.2   | file control with reader        |
-|   1.3   | presser and associated reader   |
-|   1.4   | clicker integration to presser  |
+|   1.0   | Autoclicker                     |
+|   1.1   | Clicker reader                  |
+|   1.2   | File control with reader        |
+|   1.3   | Presser and associated reader   |
+|   1.4   | Clicker integration to presser  |
 
 ## Requirements
 - Python
@@ -18,8 +18,9 @@ A prototype of automation code built on Python. <br /><br />
 
 ## In progress
 - Code optimization, cleanup, and documentation
-- Add customizable key controls (switch actions with keypress)
 - Add check for creating nonexistent directories
+- Add window rescaling for consistent automation
+- Add customizable key controls (switch actions with keypress)
 - Migrate actions from txt to either csv or json
 - UI for changing click and press values
 - Wrapper executable to reduce requirement
