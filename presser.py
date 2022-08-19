@@ -1,5 +1,5 @@
 '''''''''''''''''''''''''''''''''''''''''''''''''''
-Jin's Map Running Automation V3.1
+Jin's Activity Automation
 
 Important Update Notes:
 V1.0 - created from action_reader.py (basic presses)
@@ -8,9 +8,8 @@ V3.0 - switched from pynput to pyautogui for pressing
 
 Features:
 * Press keys with time intervals
-* Run across two areas of a map
 * Paired with the the reader script
-* Automated quest
+* Automated questing
 
 Not completely generalized and will 
 not work with everything
