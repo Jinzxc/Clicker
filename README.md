@@ -1,14 +1,14 @@
 # Prototype PressClicker
 
-A prototype of automation code built on Python. <br />
+A prototype of automation code built on Python. <br /><br />
 
 | Version | Changes                         |
 | ------- | -----------------------------   |
 |   1.0   | autoclicker                     |
-|   1.2   | clicker reader                  |
-|   1.3   | file control with reader        |
-|   1.4   | presser and associated reader   |
-|   1.5   | clicker integration to presser  |
+|   1.1   | clicker reader                  |
+|   1.2   | file control with reader        |
+|   1.3   | presser and associated reader   |
+|   1.4   | clicker integration to presser  |
 
 ## Requirements
 - Python
